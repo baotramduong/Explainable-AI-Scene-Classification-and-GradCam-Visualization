@@ -10,6 +10,10 @@
 
 <img src = '../main/Data & Images/acc_loss_curve.png' >
 
+<img src = '../main/Data & Images/classification_report.png' height='50%' width='50%' >
+
+<img src = '../main/Data & Images/cm.png' >
+
 <img src = '../main/Data & Images/prediction_result.png' >
 
 <img src = '../main/Data & Images/gradcam_visualization.png' >
