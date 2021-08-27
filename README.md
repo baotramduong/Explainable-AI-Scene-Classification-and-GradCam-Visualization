@@ -4,15 +4,15 @@
 
 <img src = '../main/Data & Images/class_distribution_train.png' >
 
-<img src = '../main/Data & Images/res-block.png' >
+<img src = '../main/Data & Images/res-block.png' height='75%' width='75%'>
 
-<img src = '../main/Data & Images/conv_identity_block.png' >
+<img src = '../main/Data & Images/conv_identity_block.png' height='75%' width='75%'>
 
-<img src = '../main/Data & Images/acc_loss_curve.png' >
+<img src = '../main/Data & Images/acc_loss_curve.png'  height='75%' width='75%'>
 
-<img src = '../main/Data & Images/classification_report.png' height='50%' width='50%' >
+<img src = '../main/Data & Images/classification_report.png' height='75%' width='75%'>
 
-<img src = '../main/Data & Images/cm.png' >
+<img src = '../main/Data & Images/cm.png'  height='75%' width='75%' >
 
 <img src = '../main/Data & Images/prediction_result.png' >
 
