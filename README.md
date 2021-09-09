@@ -6,6 +6,8 @@
 
 ## Introduction
 
+In this project, we will build and train a Deep Convolutional Neural Network (CNN) and Residual Blocks to detect the type of scenery in an image. In addition, we will also use a technique known as Gradient-Weighted Class Activation Mapping (Grad-CAM) to visualize the regions of the inputs and help us explain how our CNN models think and make decision.
+
 ## Exploratory Data Analysis
 
 <img src = '../main/Data & Images/images.png' >
@@ -14,9 +16,13 @@
 
 ## Modeling
 
+### Model Architect
+
 <img src = '../main/Data & Images/res-block.png' height='75%' width='75%'>
 
 <img src = '../main/Data & Images/conv_identity_block.png' height='75%' width='75%'>
+
+### Model Evaluation
 
 <img src = '../main/Data & Images/acc_loss_curve.png'  height='75%' width='75%'>
 
@@ -29,3 +35,13 @@
 ## Grad-CAM
 
 <img src = '../main/Data & Images/gradcam_visualization.png' >
+
+## Reference
+
+Ahmed, R. (n.d.). Explainable AI: Scene Classification and GradCam Visualization [MOOC]. Coursera. https://www.coursera.org/projects/scene-classification-gradcam
+
+Explainable AI. IBM. (n.d.). https://www.ibm.com/watson/explainable-ai.
+
+He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778.
+
+King, J., Kishore, V., Ranalli, F. (2017). Scene classification with Convolutional Neural Networks. 
