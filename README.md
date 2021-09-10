@@ -51,3 +51,5 @@ Explainable AI. IBM. (n.d.). https://www.ibm.com/watson/explainable-ai.
 He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778.
 
 King, J., Kishore, V., Ranalli, F. (2017). Scene classification with Convolutional Neural Networks. 
+
+Rosebrock, A. (2020, March 9). Grad-CAM: Visualize Class Activation Maps with Keras, TensorFlow, and Deep Learning. PyImageSearch. Retrieved September 10, 2021, from https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/. 
