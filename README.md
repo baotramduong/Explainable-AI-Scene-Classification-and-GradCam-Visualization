@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/explainable-ai-scene-classification-with-resnet-18-and-grad-cam-visualization-17ae6d65bb0)
 
 ## Introduction
 
