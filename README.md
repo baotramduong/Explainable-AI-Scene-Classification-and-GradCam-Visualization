@@ -36,6 +36,12 @@ In this project, we will build and train a Deep Convolutional Neural Network (CN
 
 <img src = '../main/Data & Images/gradcam_visualization.png' >
 
+## Future Work
+
+* Try other approaches to explain CNN outputs such as: Activations Visualization, Vanilla Gradients, Occlusion Sensitivity, CNN Fixations, and Class Activation Mapping (CAM).
+
+* Apply Transfer Learning
+
 ## Reference
 
 Ahmed, R. (n.d.). Explainable AI: Scene Classification and GradCam Visualization [MOOC]. Coursera. https://www.coursera.org/projects/scene-classification-gradcam
